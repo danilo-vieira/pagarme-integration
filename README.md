@@ -1,4 +1,4 @@
-## 📝 aBOUT
+## 📝 About
 
 This project is a simple integration with Pagar.me API
 
