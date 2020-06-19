@@ -35,8 +35,8 @@ Body params:
 ```json
 {
   "card_number": "123412341234", 
-	"card_holder_name": "NAME LIKE ON CARD", 
-	"card_expiration_date": "04/27",
-	"card_cvv": "123"
+  "card_holder_name": "NAME LIKE ON CARD", 
+  "card_expiration_date": "04/27",
+  "card_cvv": "123"
 }
 ```
